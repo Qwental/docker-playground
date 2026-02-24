@@ -1,0 +1,11 @@
+{
+  "name": "my_rails_app",
+  "private": true,
+  "dependencies": {
+    "@rails/ujs": "^7.0.0",
+    "@rails/activestorage": "^7.0.0",
+    "turbolinks": "^5.2.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^5.0.0"
+  }
+}

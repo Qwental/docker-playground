@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rails (~> 7.1.0)
+  pg
+  puma
+  sass-rails
+  webpacker
+
+RUBY VERSION
+   ruby 3.2.2
